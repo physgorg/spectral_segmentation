@@ -4,4 +4,4 @@ Problem: given image data $(K,H,W)$ with many channels $K$ given by spectral int
 
 The image data are synthetic spectra extracted from annotated prostate histology slices.
 
-In this repo, I try multiple approaches and architectures and compare their performance on this task. 
+In this repo, I try multiple approaches and architectures and compare their performance on this task. This was completed as part of a project for a UCSB seminar in deep learning. 
